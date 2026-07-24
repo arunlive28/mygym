@@ -1,6 +1,6 @@
 # 💪 MyGym
 
-**Your personal gym routine reminder.**
+**A minimalist gym routine reminder.**
 
 MyGym is a Progressive Web App (PWA) designed to help you build, track, and never forget your gym workout routine.
 
@@ -20,7 +20,5 @@ MyGym is a Progressive Web App (PWA) designed to help you build, track, and neve
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** [React](https://reactjs.org/) / [Vite](https://vitejs.dev/) *(Update if you used Vue, Svelte, etc.)*
-* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-* **PWA / Offline:** [Vite PWA Plugin](https://vite-pwa-netlify.netlify.app/) (Workbox)
+* **Frontend:** vanilla Javascript
 * **Local Storage:** IndexedDB / LocalStorage
