@@ -13,9 +13,9 @@ MyGym is a Progressive Web App (PWA) designed to help you build, track, and neve
 
 <!-- Replace these with actual screenshots of your app -->
 <p align="center">
-  <img src="docs/screenshot-home.png" width="250" alt="Home Screen">
-  <img src="docs/screenshot-routine.png" width="250" alt="Routine Builder">
-  <img src="docs/screenshot-import.png" width="250" alt="Import/Export">
+  <img src="/MyRoutines.jpg" width="250" alt="Home Screen">
+  <img src="/Edit.jpg" width="250" alt="Edit Routine">
+  <img src="/Data.jpg" width="250" alt="Import/Export">
 </p>
 
 ## 🛠️ Tech Stack
